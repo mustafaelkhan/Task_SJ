@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+table{
+    margin-left: 250px;
+    margin-top: 20px;
+    width: 60%;
+    background-color: #F0FFF8;
+}
+
+td{
+    border: 1px #80CED6 solid;
+    padding: 10px;
+}
+
+p{
+    padding: 40px;
+    background-color: #F0FFF8;
+    border: 1px #80CED6 solid;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-right: 325px;
+    border-radius: 10px;
+}
+ul{
+    padding: 40px;
+    background-color: #F0FFF8;
+    border: 1px #80CED6 solid;
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-right: 325px;
+    border-radius: 10px;
+
+}
